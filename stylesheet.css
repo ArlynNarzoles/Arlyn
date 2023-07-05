@@ -1,0 +1,69 @@
+/** @format */
+body {
+    background-color: #615c5c9b;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+    background-image: url("download.jpg");
+  }
+  
+  th {
+    background-color: #ecd503;
+    color: rgb(95, 91, 91);
+  }
+  
+  td {
+    color: #2c3135;
+    background-color: #f3fbfc;
+  }
+  
+  p {
+    color: #2c3135;
+    font-size: 14px;
+  }
+  
+  table,
+  th,
+  td {
+    font-family: 'Montserrat', sans-serif;
+    width: 100px;
+    border-radius: 10px;
+    border: 1px solid;
+    border-color: #e7e7e7;
+    text-align: center;
+    cursor: pointer;
+  }
+  
+  td:hover {
+    background-color: #112507;
+  }
+  
+  th,
+  td {
+    padding: 5px;
+    width: 300px;
+  }
+  
+  input {
+    font-family: 'Montserrat', sans-serif;
+    border-radius: 15px;
+    border: 1px dashed #920434;
+    width: 200px;
+    height: 10px;
+    margin-bottom: 40px;
+    padding: 10px;
+  }
+  
+  .form {
+    display: flex;
+  }
+  
+  form {
+    width: 300px;
+    background-color: #0cf5e1;
+    text-align: justify;
+  }
+  
+  #header {
+    width: 250px;
+    left: 50px;
+  }
